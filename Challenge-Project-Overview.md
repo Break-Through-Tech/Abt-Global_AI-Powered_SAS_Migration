@@ -23,9 +23,9 @@
 
 | Check   | Status | Notes                                                                   |
 |---------|--------|-------------------------------------------------------------------------|
-| Python Compatibility | GREEN | The tech stack includes Python for the migration and validation, making it compatible for student use. |
-| Data Readiness | GREEN | Data is small, under 1GB, making it manageable for students without extensive cleaning. |
-| Resource Check | GREEN | Only uses free-tier tools like Google Colab, accessible for all students. |
+| Python Compatibility | 🟢 | The tech stack includes Python for the migration and validation, making it compatible for student use. |
+| Data Readiness | 🟢  | Data is small, under 1GB, making it manageable for students without extensive cleaning. |
+| Resource Check | 🟢  | Only uses free-tier tools like Google Colab, accessible for all students. |
 
 **Student Fit Score:** 7/10  
 **Technical Depth Score:** 8/10  
@@ -80,7 +80,8 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 **Location:** Data is accessible at the source link provided.
 
 ### Key Details
-- Numerical and text data stored in SAS format, including legacy programs and datasets. The public data source is available at: https://qualitynet.cms.gov/inpatient/public-reporting/overall-ratings/software
+- Numerical and text data stored in SAS format, including legacy programs and datasets. 
+- The public data source is available at: https://qualitynet.cms.gov/inpatient/public-reporting/overall-ratings/software
 - No known limitations or preprocessing needed at this time.
 - [Link to data dictionary or documentation, if available]
 
